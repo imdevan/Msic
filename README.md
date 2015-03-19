@@ -6,3 +6,6 @@ http://answers.unity3d.com/questions/733587/beat-detection-algorithm.html
 
 Another script
 https://github.com/allanpichardo/Unity-Beat-Detection
+
+BPM Library
+http://adionsoft.net/bpm/
