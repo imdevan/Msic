@@ -1,11 +1,5 @@
 # Msic
 SXSW Music Hackathon Project
 
-Beat Detection Algorithm
-http://answers.unity3d.com/questions/733587/beat-detection-algorithm.html
-
-Another script
-https://github.com/allanpichardo/Unity-Beat-Detection
-
-BPM Library
-http://adionsoft.net/bpm/
+Potentially Useful Unity Networking Tutorial
+http://www.paladinstudios.com/2013/07/10/how-to-create-an-online-multiplayer-game-with-unity/
